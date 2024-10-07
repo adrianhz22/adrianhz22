@@ -1,6 +1,7 @@
 ## Lenguajes de programación
 
 ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
+![CSS](![JavaScript](https://img.icons8.com/color/48/javascript--v1.png))
 
 <!--
 **adrianhz22/adrianhz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
