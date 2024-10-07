@@ -1,3 +1,7 @@
+## Presentación
+
+Soy alumno del grado superior de DAW, donde estoy aprendiendo a programar Full Stack, tanto en frontend (HTML, CSS, Javascript) como en backend (PHP, Java). Este perfil de momento será usado simplemente para subir los proyectos que iré haciendo durandote el curso para tenerlos ordenados.
+
 ## Experiencia en:
 
 ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
@@ -6,18 +10,5 @@
 ![Java](https://img.icons8.com/fluency/48/java-coffee-cup-logo.png)
 ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)
 ![MariaDB](https://img.icons8.com/fluency/48/maria-db.png)
-
-<!--
-**adrianhz22/adrianhz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Windows](https://img.icons8.com/color/48/windows-10.png)
+![Linux](https://img.icons8.com/color/48/linux--v1.png)
