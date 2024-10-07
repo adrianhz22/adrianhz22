@@ -3,10 +3,9 @@
 ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
 ![CSS](https://img.icons8.com/color/48/css3.png)
 ![HTML](https://img.icons8.com/color/48/html-5--v1.png)
-![PHP](https://img.icons8.com/offices/30/php-logo.png)
 ![Java](https://img.icons8.com/fluency/48/java-coffee-cup-logo.png)
-![Java](https://img.icons8.com/ios/50/mysql-logo.png)
-![Java](https://img.icons8.com/fluency/48/maria-db.png)
+![MySQL](https://img.icons8.com/color/48/mysql-logo.png)
+![MariaDB](https://img.icons8.com/fluency/48/maria-db.png)
 
 <!--
 **adrianhz22/adrianhz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
