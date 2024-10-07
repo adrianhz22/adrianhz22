@@ -1,4 +1,6 @@
-## Hi there 👋
+## Lenguajes de programación
+
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
 <!--
 **adrianhz22/adrianhz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
